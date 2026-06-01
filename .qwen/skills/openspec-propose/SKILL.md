@@ -13,3 +13,4 @@ Vamos a construir una aplicación web estructurada en componentes utilizando la 
 - [X] Tarea 2: Crear el componente de contenido principal `content` en la misma carpeta.
 - [X] Tarea 3: Ensamblar ambos componentes en el archivo raíz (`app.component.ts` y `app.component.html`) para mostrar el resultado final.
 
+- [ ] Tarea 4: Crear e integrar un componente de botón interactivo (`app-button`) que incremente un contador usando la Signal del componente raíz.

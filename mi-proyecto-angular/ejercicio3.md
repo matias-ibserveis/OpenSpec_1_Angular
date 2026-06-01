@@ -15,7 +15,6 @@ Se eejcuta el siguiente código para crear las carpetas del componente:
 
 Paso C: El Prompt para Qwen (Pedir el código)
 Pedir a Qwen que genere únicamente el código del botón con un diseño moderno:
-
 # prompt:
 Qwen, estamos en modo OpenSpec: Apply. Vamos a resolver la Tarea 4: "Crear el componente botón interactivo".
 Genera el código exclusivo para:
@@ -26,7 +25,7 @@ Dame solo los bloques de código limpios, sin explicaciones.
 
 
 Paso D: Actualizar el artefacto y cerrar
-- Copiar el código en archivo correspondiente
-- Añade la etiqueta <app-button></app-button> en el app.component.html (añadiéndolo también en los imports del .ts como te diste cuenta antes), 
+- Copiar el código en archivo correspondiente components/button   (.html, .ts)
+- Añade la etiqueta <app-button></app-button> en el app.html (añadiéndolo también en los imports del .ts como te diste cuenta antes), 
 - verifica que funciona en el navegador 
 - Marca la tarea con [x] en el skills.md
